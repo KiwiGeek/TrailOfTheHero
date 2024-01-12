@@ -1,12 +1,12 @@
 {
   "FolderOrderSettings": [
+    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
+    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
+    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":15,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
-    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
-    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
-    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
-    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
@@ -90,6 +90,7 @@
     {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"obj_chest","order":4,"path":"objects/obj_chest/obj_chest.yy",},
     {"name":"spr_entrance_particle","order":8,"path":"sprites/spr_entrance_particle/spr_entrance_particle.yy",},
+    {"name":"obj_coin","order":3,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"spr_gate_iron_2","order":6,"path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
